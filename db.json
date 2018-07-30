@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Shrike, common boubou","category":"Crimson"},
+{"id":2,"name":"Tortoise, indian star","category":"Red"},
+{"id":3,"name":"Platypus","category":"Violet"},
+{"id":4,"name":"Cockatoo, slender-billed","category":"Fuscia"},
+{"id":5,"name":"African lion","category":"Goldenrod"},
+{"id":6,"name":"Cape cobra","category":"Aquamarine"},
+{"id":7,"name":"Urial","category":"Maroon"},
+{"id":8,"name":"Shrike, southern white-crowned","category":"Maroon"},
+{"id":9,"name":"Zebra, common","category":"Teal"},
+{"id":10,"name":"Brown lemur","category":"Orange"},
+{"id":11,"name":"Gerenuk","category":"Pink"},
+{"id":12,"name":"Capuchin, white-fronted","category":"Khaki"},
+{"id":13,"name":"Huron","category":"Green"},
+{"id":14,"name":"Otter, north american river","category":"Turquoise"},
+{"id":15,"name":"Deer, black-tailed","category":"Crimson"},
+{"id":16,"name":"Galapagos sea lion","category":"Mauv"},
+{"id":17,"name":"Possum, common brushtail","category":"Khaki"},
+{"id":18,"name":"Reedbuck, bohor","category":"Maroon"},
+{"id":19,"name":"Large-eared bushbaby","category":"Green"},
+{"id":20,"name":"Frog (unidentified)","category":"Yellow"}
+]
+}
